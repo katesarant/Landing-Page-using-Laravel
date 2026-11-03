@@ -87,7 +87,7 @@
     "reusify": "^1.0.4",
     "rollup": "^3.29.2",
     "run-parallel": "^1.2.0",
-    "source-map-js": "^1.0.2",
+    "source-map-js": "^1.2.2",
     "sucrase": "^3.34.0",
     "supports-preserve-symlinks-flag": "^1.0.0",
     "tailwindcss": "^3.3.3",
